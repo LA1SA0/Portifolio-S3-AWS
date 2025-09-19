@@ -1,6 +1,6 @@
 # Meu Site Estático na AWS
 
-![Visual do site](https://imgur.com/gallery/portif-lio-s3-lJlOZyZ#VL70Ryn)
+![Visual do site](https://i.imgur.com/VL70Ryn.png)
 
 Este é um projeto de **site estático** hospedado na **Amazon S3** e distribuído via **CloudFront**. O objetivo foi aprender na prática como funciona a infraestrutura de um site estático na nuvem.
 
