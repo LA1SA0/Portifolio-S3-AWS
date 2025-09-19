@@ -1,6 +1,6 @@
 # Meu Site Estático na AWS
 
-![Visual do site](<img width="800" height="389" alt="image" src="https://github.com/user-attachments/assets/64e2d922-e484-440b-b03d-3f09326655e2" />)
+![Visual do site](https://imgur.com/a/lJlOZyZ)
 
 Este é um projeto de **site estático** hospedado na **Amazon S3** e distribuído via **CloudFront**. O objetivo foi aprender na prática como funciona a infraestrutura de um site estático na nuvem.
 
